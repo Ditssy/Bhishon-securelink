@@ -48,7 +48,7 @@ $ python main.py
 |--------|-------------|
 | 🔍 **ARP Discovery** | Instantly maps every device on your LAN |
 | 📡 **Packet Inspection** | Deep traffic capture via TShark |
-| 🧠 **Anomaly Engine** | Rule-based + ML-ready detection pipeline |
+| 🧠 **Anomaly Engine** | Rule-based detection pipeline |
 | 🧾 **JSON Logging** | Structured, queryable logs for every scan |
 | 🚀 **CLI-First** | Lightweight — runs on anything, even a Pi |
 | 🛡️ **Sniffer Detection** | Catches promiscuous mode devices |
