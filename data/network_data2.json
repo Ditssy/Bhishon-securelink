@@ -1,0 +1,236 @@
+{
+    "10.42.0.110": {
+        "nmap": "Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-03-22 07:26 IST\nNote: Host seems down. If it is really up, but blocking our ping probes, try -Pn\nNmap done: 1 IP address (0 hosts up) scanned in 1.54 seconds\n",
+        "sni": [
+            {
+                "time": "Mar 22, 2026 07:26:49.764211001 IST",
+                "destination": "31.13.64.18",
+                "domain": "graph.facebook.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:26:49.771575696 IST",
+                "destination": "31.13.64.18",
+                "domain": "graph.facebook.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:26:49.891953675 IST",
+                "destination": "35.186.224.24",
+                "domain": "spclient.wg.spotify.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:26:49.911028017 IST",
+                "destination": "35.186.224.24",
+                "domain": "spclient.wg.spotify.com"
+            }
+        ],
+        "conversations": [
+            {
+                "source": "10.42.0.110",
+                "destination": "3.163.238.4",
+                "data": "4005 5,292 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "35.186.224.22",
+                "data": "492 194 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "49.44.225.44",
+                "data": "626 767 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "49.44.81.210",
+                "data": "503 582 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "150.171.22.12",
+                "data": "310 101 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "74.125.68.119",
+                "data": "218 243 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "216.239.34.223",
+                "data": "186 185 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "49.44.211.82",
+                "data": "165 154 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "31.13.64.63",
+                "data": "119 49 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "172.217.194.132",
+                "data": "108 126 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "31.13.64.142",
+                "data": "88 17 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "216.239.38.223",
+                "data": "74 36 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "172.217.70.100",
+                "data": "62 31 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "10.42.0.1",
+                "data": "112 14 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "35.186.224.24",
+                "data": "47 17 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "142.250.67.238",
+                "data": "43 22 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "216.58.200.174",
+                "data": "40 22 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "142.251.223.134",
+                "data": "34 18 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "142.250.67.78",
+                "data": "34 18 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "35.190.43.134",
+                "data": "33 13 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "142.250.193.78",
+                "data": "25 12 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "172.217.26.110",
+                "data": "20 14 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "31.13.64.18",
+                "data": "36 12 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "142.250.192.227",
+                "data": "35 12 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "57.144.142.144",
+                "data": "33 10 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "35.186.224.35",
+                "data": "19 18 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "142.251.151.119",
+                "data": "32 12 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "23.57.76.69",
+                "data": "31 10 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "49.44.249.33",
+                "data": "20 13 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "57.144.186.192",
+                "data": "16 10 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "49.44.81.209",
+                "data": "30 14 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "57.144.186.141",
+                "data": "18 12 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "129.227.29.102",
+                "data": "29 13 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "49.44.248.228",
+                "data": "19 13 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "49.44.211.80",
+                "data": "29 14 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "54.192.151.59",
+                "data": "25 10 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "49.44.211.78",
+                "data": "23 11 kB"
+            }
+        ],
+        "io_stats": [
+            724,
+            10,
+            12,
+            9,
+            327,
+            184,
+            78,
+            133,
+            24,
+            14,
+            2,
+            6,
+            2,
+            11,
+            5,
+            0,
+            8,
+            14,
+            55,
+            447
+        ]
+    }
+}

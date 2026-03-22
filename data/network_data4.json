@@ -1,0 +1,534 @@
+{
+    "10.42.0.99": {
+        "nmap": "Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-03-22 07:36 IST\nNote: Host seems down. If it is really up, but blocking our ping probes, try -Pn\nNmap done: 1 IP address (0 hosts up) scanned in 1.53 seconds\n",
+        "sni": [
+            {
+                "time": "Mar 22, 2026 07:36:36.007062928 IST",
+                "destination": "142.251.43.170",
+                "domain": "pubsub.googleapis.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:36:37.153734885 IST",
+                "destination": "142.250.193.35",
+                "domain": "update.googleapis.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:36:37.414645056 IST",
+                "destination": "216.239.38.223",
+                "domain": "discover-pa.googleapis.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:36:38.188319213 IST",
+                "destination": "216.239.36.223",
+                "domain": "optimizationguide-pa.googleapis.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:36:39.631081687 IST",
+                "destination": "142.250.182.110",
+                "domain": "play-fe.googleapis.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:36:39.665123014 IST",
+                "destination": "49.44.233.35",
+                "domain": "instagram.fccu2-2.fna.fbcdn.net"
+            },
+            {
+                "time": "Mar 22, 2026 07:36:40.622857259 IST",
+                "destination": "142.251.223.195",
+                "domain": "connectivitycheck.gstatic.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:36:42.451440710 IST",
+                "destination": "31.13.64.21",
+                "domain": "edge-mqtt.facebook.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:36:44.328507835 IST",
+                "destination": "185.199.111.153",
+                "domain": "sammods.github.io"
+            },
+            {
+                "time": "Mar 22, 2026 07:36:44.330136223 IST",
+                "destination": "185.199.111.153",
+                "domain": "sammods.github.io"
+            },
+            {
+                "time": "Mar 22, 2026 07:36:45.895335073 IST",
+                "destination": "185.199.111.153",
+                "domain": "sammods.github.io"
+            },
+            {
+                "time": "Mar 22, 2026 07:36:47.765969238 IST",
+                "destination": "49.44.237.225",
+                "domain": "instagram.fccu20-1.fna.fbcdn.net"
+            },
+            {
+                "time": "Mar 22, 2026 07:36:53.191903618 IST",
+                "destination": "49.44.249.33",
+                "domain": "instagram.fccu2-4.fna.fbcdn.net"
+            },
+            {
+                "time": "Mar 22, 2026 07:36:53.279209931 IST",
+                "destination": "49.44.248.228",
+                "domain": "instagram.fccu2-3.fna.fbcdn.net"
+            }
+        ],
+        "conversations": [
+            {
+                "source": "10.42.0.99",
+                "destination": "49.44.248.228",
+                "data": "545 685 kB"
+            },
+            {
+                "source": "10.42.0.99",
+                "destination": "49.44.237.225",
+                "data": "422 537 kB"
+            },
+            {
+                "source": "10.42.0.99",
+                "destination": "57.144.186.192",
+                "data": "382 470 kB"
+            },
+            {
+                "source": "49.44.233.35",
+                "destination": "10.42.0.99",
+                "data": "134 20 kB"
+            },
+            {
+                "source": "10.42.0.99",
+                "destination": "49.44.249.33",
+                "data": "351 421 kB"
+            },
+            {
+                "source": "10.42.0.99",
+                "destination": "157.240.196.63",
+                "data": "266 232 kB"
+            },
+            {
+                "source": "10.42.0.99",
+                "destination": "157.240.1.21",
+                "data": "43 20 kB"
+            },
+            {
+                "source": "10.42.0.99",
+                "destination": "57.144.140.128",
+                "data": "69 70 kB"
+            }
+        ],
+        "io_stats": [
+            117,
+            90,
+            100,
+            128,
+            140,
+            113,
+            122,
+            122,
+            137,
+            99,
+            96,
+            112,
+            57,
+            31,
+            1,
+            30,
+            178,
+            211,
+            92,
+            60
+        ]
+    },
+    "10.42.0.110": {
+        "nmap": "Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-03-22 07:37 IST\nNote: Host seems down. If it is really up, but blocking our ping probes, try -Pn\nNmap done: 1 IP address (0 hosts up) scanned in 1.53 seconds\n",
+        "sni": [
+            {
+                "time": "Mar 22, 2026 07:37:41.415670492 IST",
+                "destination": "31.13.64.63",
+                "domain": "i.instagram.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:37:41.524076926 IST",
+                "destination": "31.13.64.63",
+                "domain": "i.instagram.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:37:42.216793013 IST",
+                "destination": "216.239.38.223",
+                "domain": "googlehomefoyer-pa.googleapis.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:37:42.424103316 IST",
+                "destination": "216.239.38.223",
+                "domain": "googlehomefoyer-pa.googleapis.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:37:42.635809345 IST",
+                "destination": "49.44.233.35",
+                "domain": "instagram.fccu2-2.fna.fbcdn.net"
+            },
+            {
+                "time": "Mar 22, 2026 07:37:54.131538563 IST",
+                "destination": "35.190.43.134",
+                "domain": "gcp.api.snapchat.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:37:55.555551034 IST",
+                "destination": "35.190.43.134",
+                "domain": "aws-proxy-gcp.api.snapchat.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:37:55.902369393 IST",
+                "destination": "35.190.43.134",
+                "domain": "aws-proxy-gcp.api.snapchat.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:37:56.724409473 IST",
+                "destination": "35.244.195.33",
+                "domain": "app-analytics-v2.snapchat.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:37:57.020351721 IST",
+                "destination": "35.244.195.33",
+                "domain": "app-analytics-v2.snapchat.com"
+            }
+        ],
+        "conversations": [
+            {
+                "source": "10.42.0.110",
+                "destination": "216.239.36.223",
+                "data": "151 91 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "23.204.252.232",
+                "data": "179 174 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "31.13.64.63",
+                "data": "181 168 kB"
+            },
+            {
+                "source": "216.239.32.223",
+                "destination": "10.42.0.110",
+                "data": "108 31 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "142.250.67.68",
+                "data": "91 62 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "142.250.182.110",
+                "data": "84 59 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "10.42.0.1",
+                "data": "144 17 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "142.251.10.92",
+                "data": "76 39 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "142.250.193.78",
+                "data": "65 39 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "216.239.38.223",
+                "data": "59 52 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "142.250.193.35",
+                "data": "55 35 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "216.239.36.158",
+                "data": "44 22 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "192.178.211.84",
+                "data": "39 22 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "142.251.43.174",
+                "data": "41 16 kB"
+            },
+            {
+                "source": "10.42.0.110",
+                "destination": "142.250.67.67",
+                "data": "30 18 kB"
+            },
+            {
+                "source": "35.190.43.134",
+                "destination": "10.42.0.110",
+                "data": "43 11 kB"
+            }
+        ],
+        "io_stats": [
+            28,
+            8,
+            20,
+            9,
+            8,
+            24,
+            53,
+            121,
+            105,
+            118,
+            82,
+            107,
+            116,
+            44,
+            33,
+            27,
+            15,
+            33,
+            34,
+            169
+        ]
+    },
+    "10.42.0.247": {
+        "nmap": "Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-03-22 07:38 IST\nNote: Host seems down. If it is really up, but blocking our ping probes, try -Pn\nNmap done: 1 IP address (0 hosts up) scanned in 1.53 seconds\n",
+        "sni": [
+            {
+                "time": "Mar 22, 2026 07:38:41.466906334 IST",
+                "destination": "192.178.211.84",
+                "domain": "accounts.google.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:41.467551446 IST",
+                "destination": "216.58.196.106",
+                "domain": "signaler-pa.clients6.google.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:42.874425190 IST",
+                "destination": "192.178.211.84",
+                "domain": "accounts.google.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:42.874818180 IST",
+                "destination": "216.58.196.106",
+                "domain": "signaler-pa.clients6.google.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:42.875216896 IST",
+                "destination": "216.58.196.106",
+                "domain": "signaler-pa.clients6.google.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:42.875503659 IST",
+                "destination": "192.178.211.84",
+                "domain": "accounts.google.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:46.226651462 IST",
+                "destination": "13.89.179.9",
+                "domain": "mobile.events.data.microsoft.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:46.227349233 IST",
+                "destination": "13.89.179.9",
+                "domain": "mobile.events.data.microsoft.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:46.234774967 IST",
+                "destination": "34.107.243.93",
+                "domain": "push.services.mozilla.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:46.234932037 IST",
+                "destination": "20.198.2.181",
+                "domain": "activity.windows.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:48.418081200 IST",
+                "destination": "34.107.243.93",
+                "domain": "push.services.mozilla.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:48.662796531 IST",
+                "destination": "216.58.196.106",
+                "domain": "signaler-pa.clients6.google.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:48.663201044 IST",
+                "destination": "216.58.196.106",
+                "domain": "signaler-pa.clients6.google.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:48.663650604 IST",
+                "destination": "142.250.183.227",
+                "domain": "ssl.gstatic.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:50.174036537 IST",
+                "destination": "74.125.24.188",
+                "domain": "mtalk.google.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:50.198345595 IST",
+                "destination": "140.82.114.25",
+                "domain": "alive.github.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:50.270196114 IST",
+                "destination": "34.107.243.93",
+                "domain": "push.services.mozilla.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:50.270204844 IST",
+                "destination": "199.232.101.91",
+                "domain": "firefox.settings.services.mozilla.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:51.922614191 IST",
+                "destination": "199.232.101.91",
+                "domain": "firefox.settings.services.mozilla.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:52.699006730 IST",
+                "destination": "4.213.25.240",
+                "domain": "client.wns.windows.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:52.711450536 IST",
+                "destination": "140.82.114.25",
+                "domain": "alive.github.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:54.185343760 IST",
+                "destination": "52.253.84.76",
+                "domain": "licensing.mp.microsoft.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:55.144806127 IST",
+                "destination": "140.82.114.25",
+                "domain": "alive.github.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:57.447401467 IST",
+                "destination": "52.253.84.76",
+                "domain": "licensing.mp.microsoft.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:58.496953410 IST",
+                "destination": "49.44.199.40",
+                "domain": "sadownload.mcafee.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:38:59.391009113 IST",
+                "destination": "52.253.84.76",
+                "domain": "licensing.mp.microsoft.com"
+            },
+            {
+                "time": "Mar 22, 2026 07:39:01.203094832 IST",
+                "destination": "140.82.114.25",
+                "domain": "alive.github.com"
+            }
+        ],
+        "conversations": [
+            {
+                "source": "10.42.0.247",
+                "destination": "49.44.199.40",
+                "data": "216 258 kB"
+            },
+            {
+                "source": "10.42.0.247",
+                "destination": "216.58.196.106",
+                "data": "92 60 kB"
+            },
+            {
+                "source": "52.253.84.76",
+                "destination": "10.42.0.247",
+                "data": "67 15 kB"
+            },
+            {
+                "source": "10.42.0.247",
+                "destination": "142.251.223.131",
+                "data": "93 108 kB"
+            },
+            {
+                "source": "10.42.0.247",
+                "destination": "142.250.183.227",
+                "data": "47 16 kB"
+            }
+        ],
+        "io_stats": [
+            58,
+            4,
+            23,
+            124,
+            2,
+            8,
+            97,
+            57,
+            19,
+            2,
+            4,
+            0,
+            16,
+            2,
+            0,
+            0,
+            2,
+            1,
+            1
+        ]
+    },
+    "10.42.0.19": {
+        "nmap": "Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-03-22 07:39 IST\nNote: Host seems down. If it is really up, but blocking our ping probes, try -Pn\nNmap done: 1 IP address (0 hosts up) scanned in 1.53 seconds\n",
+        "sni": [],
+        "conversations": [
+            {
+                "source": "10.42.0.19",
+                "destination": "142.251.223.131",
+                "data": "83 26 kB"
+            },
+            {
+                "source": "10.42.0.19",
+                "destination": "13.107.5.93",
+                "data": "40 24 kB"
+            },
+            {
+                "source": "10.42.0.19",
+                "destination": "142.250.67.78",
+                "data": "25 23 kB"
+            },
+            {
+                "source": "10.42.0.19",
+                "destination": "172.217.26.110",
+                "data": "31 14 kB"
+            }
+        ],
+        "io_stats": [
+            2,
+            0,
+            0,
+            2,
+            0,
+            2,
+            2,
+            0,
+            0,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            6
+        ]
+    }
+}
